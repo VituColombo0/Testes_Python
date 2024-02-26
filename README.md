@@ -1,3 +1,3 @@
 # Python
 
-Desenvolvimento de scripts em python. 
+Desenvolvimento de códigos e scripts para o KaliLinux. 
