@@ -16,11 +16,3 @@ elif pag == 3:
 else:
     print('O valor do produto aumentou em 20%, ficando {}'.format(calc4))
     
-
-
-
-
-# FEITO COM ORGULHO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    
-
-
