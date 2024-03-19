@@ -1,5 +1,3 @@
-# Converter unidades de medida
-
 m = float(input('Digite um valor em metros: '))
 
 km = m / 1000
