@@ -1,5 +1,3 @@
-# R$0,15 por Km rodado e R$60 por dia usado
-
 km = float(input('Insira quantos Km foram percorridos: '))
 dias = int(input('Insira por quantos dias ele foi alugado: '))
 

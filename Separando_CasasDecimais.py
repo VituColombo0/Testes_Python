@@ -1,5 +1,3 @@
-# Programa que leia um número de 4 dígitos e mostre suas casas
-
 num = int(input('Insira um número de 4 digitos: '))
 
 u = num // 1 % 10
