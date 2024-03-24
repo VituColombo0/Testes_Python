@@ -1,3 +1,3 @@
 # Python
 
-Desenvolvimento de códigos e scripts para o KaliLinux e para usos diários
+Desenvolvimento de códigos e scripts para usos diários
