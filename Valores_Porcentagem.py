@@ -1,6 +1,3 @@
-# Aumento do salário em 15%
-# Produto com 5% de desconto sobre seu valor inicial
-
 s = float(input('Insira seu salário: '))
 p = float(input('Insira o preço do produto que deseja comprar em R$ '))
 
