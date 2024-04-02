@@ -15,3 +15,4 @@ while not acertou:
         elif jogador > computador:
             print('Tente chutar mais baixo...')
 print('Acertou com {} palpites'.format(palpites))
+#3
