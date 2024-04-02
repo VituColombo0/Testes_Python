@@ -7,7 +7,7 @@ Porta-aviões 5 casas
 Cruzador 4 casas
 Contratorpedeiro 3 casas
 Rebocador 2 casas
-Rebocador_2 2 casas 
+Rebocador2 2 casas 
 
 Para marcação iremos utilizar:
 
@@ -22,15 +22,11 @@ import random
 # Choice = faz a escolha de algum número, podendo ou não ser em um determinado limite de opções
 
 # Função para criar um tabuleiro vazio
-
-
 def criar_tabuleiro():
     # Criamos uma matriz 10x10 que será preenchida com 'O' para representar a água
     return [['O' for _ in range(10)] for _ in range(10)]
 
 # Função que verifica se uma posição no tabuleiro está livre para colocar um navio
-
-
 def verificar_posicao_livre(tabuleiro, linha, coluna, tamanho, orientacao):
     # Verifica se a posição está dentro dos limites do tabuleiro
     if orientacao == 'horizontal':
@@ -46,8 +42,6 @@ def verificar_posicao_livre(tabuleiro, linha, coluna, tamanho, orientacao):
     return False
 
 # Função para colocar um navio em uma posição no tabuleiro
-
-
 def colocar_navio(tabuleiro, linha, coluna, tamanho, orientacao):
     # Coloca o navio no tabuleiro de acordo com a orientação
     if orientacao == 'horizontal':
@@ -60,8 +54,6 @@ def colocar_navio(tabuleiro, linha, coluna, tamanho, orientacao):
             tabuleiro[linha+i][coluna] = '@'
 
 # Função para distribuir a frota no tabuleiro
-
-
 def distribuir_frota(tabuleiro):
     # Lista de tamanhos dos navios
     tamanhos_navios = [5, 4, 3, 2, 2]
@@ -86,8 +78,6 @@ def distribuir_frota(tabuleiro):
                 break
 
 # Função para exibir o tabuleiro do jogador
-
-
 def exibir_tabuleiro_jogador(tabuleiro):
     # Exibe o tabuleiro sem revelar as posições dos navios do computador
     for linha in tabuleiro:
