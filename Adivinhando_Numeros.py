@@ -22,3 +22,5 @@ if escolhido == escolha:
     print('Você ACERTOU!!!')
 else:
     print('Você ERROU!!!')'''
+
+#2
