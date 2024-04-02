@@ -9,6 +9,8 @@ print('O valor {} de forma inteira é {}'.format(num, calc))
 
 # Sem o uso de bibliotecas:
 
-'''num = float(input('Insira um número quebrado: '))
-print('O valor digitado foi {} e sua parte inteira é {}'.format(num, int(num)))'''
+'''
+num = float(input('Insira um número quebrado: '))
+print('O valor digitado foi {} e sua parte inteira é {}'.format(num, int(num)))
+'''
 
