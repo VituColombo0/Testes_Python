@@ -6,3 +6,4 @@ while True:
     if 0 <= num <= 10:
         break
 print(f'Você digitou o número {cont[num]}')
+#
