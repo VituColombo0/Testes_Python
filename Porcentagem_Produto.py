@@ -15,4 +15,3 @@ elif pag == 3:
     print('O preço continua o mesmo')
 else:
     print('O valor do produto aumentou em 20%, ficando {}'.format(calc4))
-    #

@@ -7,4 +7,3 @@ if resultado == 0:
     print('\033[31m É um número par \033[m')
 else:
     print('\033[36m É um número ímpar \033[m')
-

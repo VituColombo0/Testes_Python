@@ -9,5 +9,3 @@ elif media > 5 and media < 6.9:
     print('RECUPERAÇÃO!')
 else:
     print('APROVADO!')
-
-#
