@@ -10,4 +10,3 @@ while resp in 'Ss':
     resp = str(input('Deseja continuar? [S/N]')).upper().strip()[0]
 media = soma / quant
 print('Você digitou {} números e a média foi {}'.format(quant, media))
-#

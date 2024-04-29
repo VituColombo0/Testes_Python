@@ -7,4 +7,3 @@ for c in range(1, 501, 2):
         cont += 1 # Outro método
         soma = soma + c  # Soma recebe o que ela tem + c
 print('A soma de todos os valores é {} e {} números foram utilizados'.format(soma, cont))
-#

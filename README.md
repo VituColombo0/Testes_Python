@@ -1,3 +1,3 @@
 # Python
 
-Desenvolvimento de códigos e scripts para usos diários e faculdade
+Desenvolvimento de códigos e scripts para uso diário
